@@ -1,0 +1,11 @@
+
+-Çalýþtýrýlacak Windows iþletim sistemli bilgisayarda Node.js ve Eclipse ve Eclipse'in Spring Tolls eklentileri kurulu olmalýdýr.
+Bilgisayar üzerinde 3000 ve 8080 portu boþ olmalýdýr.
+
+1-MainProject\React\interview-react klasörüne gidilir, Shift+sað týk yapýlarak cmd  bu klasörde baþlatýlýr ve npm start ile 
+projenin react kýsmý ayaða kaldýrýlmýþ olur.
+
+2-\MainProject\interview pathinden spring boot projesi import existing project denilerek eclipse'e eklenir, Eclipse Spring tools 
+ile eklenmiþ olan Boot Dashboard üzerinden projeye sað týklanarak start denir ve proje'nin içerisindeki tomcat ayaða kaldýrýlýr.
+
+localhost:3000 üzerinden projeye eriþilebilir.

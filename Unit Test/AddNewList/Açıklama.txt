@@ -1,0 +1,2 @@
+1-Kullanýcý eklemek istediði todolist'in adýný input alanýna girer ve add todolist tuþuna basar.
+2-Todolist sisteme eklenmiþtir.

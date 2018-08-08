@@ -1,0 +1,6 @@
+1-Kullanýcý hangi listeye item ekleyecekse onun üzerine týklar ve o listede bulunan elemanlar aþaðýda listelenir.
+ve kullanýcý add item butonuna basar.
+2-Add todoitem ekraný açýlýr.
+3-Kullanýcý item ismini açýklamasýný ve deadline'ýný girer.
+4-OK tuþuna basar.
+5-Item istenilen listenin elemaný olarak eklenmiþtir.

@@ -1,0 +1,10 @@
+-Sistem ilk açýldýðýnda içindeki dummy deðerlerle birlikte ekrana gelmektedir.
+-Üstte buluna listte TODOLIST'ler bulunmaktadýr ve bunlarýn üzerinde týklandýðýnda ise alttaki listede bu listeye baðlý itemler 
+gelmektedir.
+-Üsttteki ve alttaki listeden delete butonu üzerinden istenilen list ve/veya itemler silinebilir.
+-Alttaki listede checkbox'lar üzerinden itemler completed veya expired statusune çekilir deadline tarihlerine göre,
+deadline tarihi günün tarihinden büyükse completed,
+deadline tarihi günün tarihinden küçükse expired statusune çekilir.
+ 
+-TODOLIST eklemek için üstteki input alanýna list'e verilecek isim yazýlýr ve yanýndaki tuþa basýlýr.
+-TODOITEM eklemek için alttaki add todoitem butonu üzerinden açýlacak ekrandan bilgiler girilir.

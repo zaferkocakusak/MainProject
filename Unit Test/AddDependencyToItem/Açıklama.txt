@@ -1,0 +1,10 @@
+1-Kullanýcý baðýmlýlýk eklemek istediði itemin yanýnda bulunan addDependency tuþuna basar.
+2-Dependency eklenmek istenen item hariç o listede bulunan diðer bütün elemanlar, aralarýndan seçim yapýlmasý için açýlacak yeni
+ekranda listelenirler.
+3-Kullanýcý baðýmlýlýk eklemek istediði itemi seçer.
+4-Eklenen baðýmlýlýðýn id'si bir sonraki ekranda item üzerinde dependencyid olarak gözükecektir.
+5-Soldaki tik üzerinden item'i tamamlamak istediðimizde ise baðýmlýlýklarý tamamlanmadýðý için ,tamamlanamaz þeklinde bir uyarý ekrana 
+yazýlýr.
+6-Baðýmlýlýk tamamlandý durumuna getirilir.
+7-Üzerinde baðýmlýlýk bulunan itemi tekrar tamamlamaya çalýþtýðýmýzda ise bu sefer tamamlandý status'une çektiðini görüyoruz.
+çünkü 1 önceki adýmda baðýmlýlýðýmýzý tamamlandý status'üne getirmiþtik.
